@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44a12ee4-a072-4def-b68d-9528a2b26150" name="Changes" comment="Hello world with class Person">
+    <list default="true" id="44a12ee4-a072-4def-b68d-9528a2b26150" name="Changes" comment="Merge">
+      <change afterPath="$PROJECT_DIR$/src/main/java/PersonKotlin.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +23,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -46,7 +49,8 @@
     "last_opened_file_path": "C:/Users/大鮭魚/IdeaProjects/myproject2",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.language.Kotlin"
   }
 }]]></component>
   <component name="RunManager">
@@ -92,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654843802082</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Merge">
+      <created>1654847267015</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654847267015</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,7 +117,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/main" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -121,6 +132,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="Hello world with class Person" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hello world with class Person" />
+    <MESSAGE value="Merge" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge" />
   </component>
 </project>
