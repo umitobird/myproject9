@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44a12ee4-a072-4def-b68d-9528a2b26150" name="Changes" comment="Merge">
-      <change afterPath="$PROJECT_DIR$/src/main/java/PersonKotlin.kt" afterDir="false" />
+    <list default="true" id="44a12ee4-a072-4def-b68d-9528a2b26150" name="Changes" comment="Hello World with Kotlin">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/score/Student.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +46,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "C:/Users/大鮭魚/IdeaProjects/myproject2",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
@@ -53,7 +55,7 @@
     "settings.editor.selected.configurable": "preferences.language.Kotlin"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.StudentKt">
     <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Hello" />
       <module name="myproject9.main" />
@@ -67,8 +69,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StudentKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.com.score.StudentKt" />
+      <module name="myproject9.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.StudentKt" />
         <item itemvalue="Application.Hello" />
       </list>
     </recent_temporary>
@@ -103,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654847267015</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Hello World with Kotlin">
+      <created>1654849054114</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1654849054114</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,19 +128,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="master" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -133,6 +138,11 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="Hello world with class Person" />
     <MESSAGE value="Merge" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge" />
+    <MESSAGE value="Hello World with Kotlin" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hello World with Kotlin" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
